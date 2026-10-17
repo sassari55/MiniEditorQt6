@@ -1,0 +1,15 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/">
+        <file>icone/nuovo.png</file>
+        <file>icone/apri.png</file>
+        <file>icone/salva.png</file>
+        <file>icone/esci.png</file>
+        <file>icone/allinea_sinistra.png</file>
+        <file>icone/allinea_centro.png</file>
+        <file>icone/allinea_destra.png</file>
+        <file>icone/allinea_giustificato.png</file>
+        <file>icone/stampa.png</file>
+        <file>icone/ricerca.png</file>
+        <file>icone/orientamento.png</file>
+    </qresource>
+</RCC>
