@@ -1,0 +1,12 @@
+Creazione piattaforme target in corso: x86_64
+Creazione per il target x86_64 in corso
+setting SOURCE_DATE_EPOCH=1278201600
+Esecuzione(%prep) in corso: /bin/sh -e /var/tmp/rpm-tmp.8kM1Zv
+Esecuzione(%install) in corso: /bin/sh -e /var/tmp/rpm-tmp.5ukxQf
+Elaborazione file: minieditorqt6-1.0.0-1.x86_64
+Provides: minieditorqt6 = 1.0.0-1 minieditorqt6(x86-64) = 1.0.0-1
+Requires(rpmlib): rpmlib(CompressedFileNames) <= 3.0.4-1 rpmlib(FileDigests) <= 4.6.0-1 rpmlib(PayloadFilesHavePrefix) <= 4.0-1
+Requires: libGLX.so.0()(64bit) libOpenGL.so.0()(64bit) libQt6Core.so.6()(64bit) libQt6Core.so.6(Qt_6)(64bit) libQt6Core.so.6(Qt_6.6)(64bit) libQt6Gui.so.6()(64bit) libQt6Gui.so.6(Qt_6)(64bit) libQt6PrintSupport.so.6()(64bit) libQt6PrintSupport.so.6(Qt_6)(64bit) libQt6Widgets.so.6()(64bit) libQt6Widgets.so.6(Qt_6)(64bit) libc.so.6()(64bit) libc.so.6(GLIBC_2.2.5)(64bit) libc.so.6(GLIBC_2.34)(64bit) libgcc_s.so.1()(64bit) libgcc_s.so.1(GCC_3.0)(64bit) libm.so.6()(64bit) libstdc++.so.6()(64bit) libstdc++.so.6(CXXABI_1.3)(64bit) libstdc++.so.6(CXXABI_1.3.9)(64bit) libstdc++.so.6(GLIBCXX_3.4)(64bit) rtld(GNU_HASH)
+Controllo per file non pacchettizzati in corso: /usr/lib/rpm/check-files /home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/_CPack_Packages/Linux/RPM/minieditorqt6-1.0.0-Linux
+Scritto: /home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/_CPack_Packages/Linux/RPM/RPMS/minieditorqt6-1.0.0-Linux.rpm
+Esecuzione(%clean) in corso: /bin/sh -e /var/tmp/rpm-tmp.plaVXN

@@ -1,0 +1,35 @@
+{
+	"BUILD_DIR" : "/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/MiniEditorQt6_autogen",
+	"CMAKE_BINARY_DIR" : "/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6",
+	"CMAKE_SOURCE_DIR" : "/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/MiniEditorQt6_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/icone/apri.png",
+		"/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/icone/orientamento.png",
+		"/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/icone/esci.png",
+		"/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/icone/stampa.png",
+		"/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/icone/allinea_centro.png",
+		"/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/icone/salva.png",
+		"/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/icone/allinea_giustificato.png",
+		"/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/icone/ricerca.png",
+		"/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/icone/allinea_destra.png",
+		"/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/icone/allinea_sinistra.png",
+		"/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/icone/nuovo.png"
+	],
+	"LOCK_FILE" : "/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/CMakeFiles/MiniEditorQt6_autogen.dir/AutoRcc_risorse_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "risorse" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_risorse.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib64/qt6/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/CMakeFiles/MiniEditorQt6_autogen.dir/AutoRcc_risorse_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/risorse.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

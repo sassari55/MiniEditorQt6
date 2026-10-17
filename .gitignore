@@ -1,6 +1,0 @@
-.idea/
-cmake-build-debug/
-cmake-build-release/
-build_rpm/
-*.o
-*.obj

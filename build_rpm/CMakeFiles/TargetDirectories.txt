@@ -1,0 +1,11 @@
+/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/CMakeFiles/MiniEditorQt6.dir
+/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/CMakeFiles/package.dir
+/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/CMakeFiles/package_source.dir
+/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/CMakeFiles/edit_cache.dir
+/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/CMakeFiles/rebuild_cache.dir
+/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/CMakeFiles/list_install_components.dir
+/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/CMakeFiles/install.dir
+/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/CMakeFiles/install/local.dir
+/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/CMakeFiles/install/strip.dir
+/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/CMakeFiles/MiniEditorQt6_autogen_timestamp_deps.dir
+/home/giambattista/sorgenti/C-C++/Qt6/MiniEditorQt6/build_rpm/CMakeFiles/MiniEditorQt6_autogen.dir
